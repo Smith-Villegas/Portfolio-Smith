@@ -501,8 +501,8 @@ valores */
   
   
   .contact-wrapper {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
+    /*display: grid;
+    grid-template-columns: 2fr 1fr;*/
     border: solid;
     border-radius: 6px;
   }
