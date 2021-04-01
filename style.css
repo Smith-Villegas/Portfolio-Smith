@@ -521,12 +521,13 @@ valores */
     border-bottom: solid;
       display: flex;
       justify-content: center;
+      font-size: 22px;
   }
   
   .links {
     padding-top: 50px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
   }
   
   .links :hover {
